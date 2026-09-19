@@ -1,0 +1,17 @@
+Adobe After Effects v26.5 Windows 64 render log for project “trackmatte (converted).aep”
+
+Rendering started on 9/12/2026 at 9:55:59 PM
+
+  9/12/2026 9:55:59 PM: Starting composition “mg1_week2_trackmatt_ianconroy”.
+
+  Output To: D:\vanier\semester 3\mg1\exports\mg1_week2_trackmatt_ianconroy.mp4    9/12/2026 9:56:03 PM: Finished composition “mg1_week2_trackmatt_ianconroy”.
+
+
+  9/12/2026 9:56:03 PM: Starting composition “mg1_week2_trackmatt_ianconroy”.
+
+  Output To: D:\vanier\semester 3\mg1\exports\mg1_week2_trackmatt_ianconroy_1.mp4    9/12/2026 9:56:05 PM: Finished composition “mg1_week2_trackmatt_ianconroy”.
+
+
+  Total Time Elapsed: 6 Seconds
+Log closed on 9/12/2026 at 9:56:05 PM
+
